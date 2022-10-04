@@ -15,7 +15,7 @@
 
 ## 🔖&nbsp; About
 
-The project **Github Explorer** it is a self-explanatory name, it is used to serach through git repositories and find some extra info about them using the github API. It was developed during the **Ignite Bootcamp**.
+The project **Github Explorer** has a self-explanatory name, it is used to serach through git repositories and find some extra info about them using the github API. It was developed during the **Ignite Bootcamp**.
 
 ---
 
