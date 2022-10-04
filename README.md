@@ -3,9 +3,9 @@
 </h1>
 
 
-<!-- <h3 align="center">
+<h3 align="center">
     <a href="https://github-explorer-guntzel.vercel.app/">Access demo</a>
-<h3 > -->
+<h3 >
 
 # Index
 
